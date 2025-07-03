@@ -7,6 +7,7 @@ Projekt vznikl v rámci studia TypeScriptu a Reactu.
 Cílem bylo vytvořit plně funkční aplikaci s komponentovou strukturou, správou stavů, typovou bezpečností a responzivním designem.
 
 <img width="1431" alt="Snímek obrazovky 2025-07-03 v 15 26 56" src="https://github.com/user-attachments/assets/2494697d-4c9b-47b7-bba6-b290ada10e63" />
+
 <img width="1424" alt="Snímek obrazovky 2025-07-03 v 15 30 39" src="https://github.com/user-attachments/assets/ed1ebc7c-1f42-4d39-8d28-4f5e9e4beb36" />
 
 ---
