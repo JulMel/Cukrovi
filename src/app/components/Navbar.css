@@ -1,0 +1,40 @@
+.navbar {
+  padding: 1rem 2rem;
+  background-color: #fdfdfd;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.navbar-right {
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar-right button {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-right .active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.navbar-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 1rem 0;
+}
+
+@media (max-width: 600px) {
+  .navbar-right {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+}

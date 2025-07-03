@@ -1,0 +1,35 @@
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem 4rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.page-title {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.filter-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.filter-buttons button {
+  margin: 0 0.5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #f3f3f3;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.filter-buttons .active {
+  background-color: #333;
+  color: white;
+}
